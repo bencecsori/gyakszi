@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\xfaktor\xfaktor\obj\Debug\xfaktor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\xfaktor\xfaktor\obj\Debug\xfaktor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\xfaktor\xfaktor\bin\Debug\xfaktor.exe.config
+C:\Users\User\source\repos\xfaktor\xfaktor\bin\Debug\xfaktor.exe
+C:\Users\User\source\repos\xfaktor\xfaktor\bin\Debug\xfaktor.pdb
+C:\Users\User\source\repos\xfaktor\xfaktor\obj\Debug\xfaktor.exe
+C:\Users\User\source\repos\xfaktor\xfaktor\obj\Debug\xfaktor.pdb
